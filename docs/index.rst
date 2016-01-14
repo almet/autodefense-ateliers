@@ -17,7 +17,8 @@ certains d'entre nous, pour préparer nos formations / ateliers.
 d'éditer cette documentation en cliquant sur le bouton "edit on github" en haut
 à droite. N'hésitez pas, ceci se veut être un travail collaboratif.
 
-Cette documentation est mise à disposition sous les termes de la license ISC.
+Cette documentation est mise à disposition selon `les termes de la license
+ISC <https://fr.wikipedia.org/wiki/Licence_ISC>`_
 
 .. toctree::
    :maxdepth: 2

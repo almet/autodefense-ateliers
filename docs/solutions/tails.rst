@@ -1,5 +1,5 @@
-TAILS (The Amnesic and Incognito Live System)
-###############################################
+Tails (The Amnesic and Incognito Live System)
+#############################################
 
 C'est un système d'exploitation (Comme Windows ou Mac OSX) dont l'objectif est
 de ne laisser aucune trace de son utilisation, ni sur l'ordinateur hote, ni

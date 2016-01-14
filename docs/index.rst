@@ -1,8 +1,8 @@
 Autodefense Numérique — Supports de formation
 =============================================
 
-Bonjour ! Si vous vous retrouvez ici, c'est que vous êtes potentiellement
-interessés pour organiser des ateliers d'auto-défense numérique.
+Bonjour ! Si vous vous retrouvez ici c'est que vous êtes potentiellement
+interessés pour **organiser des ateliers d'auto-défense numérique**.
 
 Cette documentation souhaite regrouper des ressources sur l'organisation
 d'ateliers sur l'autodéfense numérique (certain.e.s disent Crypto parties).
@@ -17,7 +17,7 @@ Cette documentation est mise à disposition sous les termes de la license ISC.
 
 .. toctree::
    :maxdepth: 2
-   
+
    ateliers
    brise-glace
    pourquoi

@@ -1,0 +1,78 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Qu'est-ce que la cryptographie ?</title>
+  <link rel="stylesheet" href="./dist/talkie.min.css">
+  <link rel="stylesheet" href="./dist/talkie-default.min.css">
+  <link rel="stylesheet" href="./dist/monokai_sublime.min.css">
+  <link rel="stylesheet" href="./dist/mozilla.css">
+</head>
+<body>
+
+<template layout="cover" type="text/x-markdown">
+
+# Quelques concepts de cryptographie
+
+</template>
+
+<template layout="bullets-invert" type="text/x-markdown">
+# Alice veut recevoir des messages de Bob.
+</template>
+
+<template layout="bullets" type="text/x-markdown">
+
+- Alice veut recevoir des messages de la part de Bob;
+- Elle veut être certaine que **personne n'a alteré le message**;
+- Elle veut être certaine **de l'identité de Bob**;
+- Elle veut être sur d'**être la seule à pouvoir ouvrir le message**.
+
+</template>
+
+
+<template layout="bullets-invert" type="text/x-markdown"
+          backface="./images/box+lock.png">
+
+</template>
+
+<template layout="bullets-invert" type="text/x-markdown"
+          backface="./images/box+2locks.png">
+</template>
+
+<template layout="bullets" type="text/x-markdown">
+
+# Les soucis associés !
+
+- **Preuves**: vous ne pouvez pas nier avoir écrit le message si vous le signez;
+- **Metadonnées**: il est toujours possible de savoir qui parle à qui, et quand.
+
+</template>
+
+<template layout="bullets-invert" type="text/x-markdown">
+# Vous voulez chiffrer vos données ?
+</template>
+
+<template layout="bullets-invert" type="text/x-markdown"
+          backface="./images/box+key.png">
+</template>
+
+<script src="./dist/highlight.min.js"></script>
+<script src="./dist/talkie.js"></script>
+<script>
+var talkie = Talkie({wide: false});
+
+talkie.next.plug(talkie.control.keydown('s'));
+talkie.next.plug(talkie.control.keydown('n'));
+talkie.prev.plug(talkie.control.keydown('a'));
+talkie.prev.plug(talkie.control.keydown('p'));
+
+document.addEventListener('DOMContentLoaded', function() {
+  var slides = Array.prototype.slice.call(document.querySelectorAll('[layout]'));
+  talkie.changed.onValue(function(current) {
+    console.clear();
+    // print presenter notes
+    console.info(talkie.notes[current.getAttribute('page')]);
+  });
+});
+</script>
+</body>
+</html>

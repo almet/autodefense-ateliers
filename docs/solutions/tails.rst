@@ -1,4 +1,4 @@
-TAILS (The Anonymous and Incognito Live System)
+TAILS (The Amnesic and Incognito Live System)
 ###############################################
 
 C'est un système d'exploitation (Comme Windows ou Mac OSX) dont l'objectif est

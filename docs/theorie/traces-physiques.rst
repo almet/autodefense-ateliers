@@ -45,3 +45,21 @@ La parade par rapport à ce type d'attaques:
 - éteindre son ordinateur lorsqu'on ne l'utilise pas. Il existe des attaques
   assez poussées qui meme être utilisées sur une mémoire eteinte jusqu'à
   quelques minutes après son extinction (cold boot attacks).
+
+Entrées / Sorties
+=================
+
+* `Tout ce qui est tapé sur un clavier peut être capté jusqu'à
+  20 mètres <http://lasec.epfl.ch/keyboard/>`_
+* Faire attention aux clés USB, la clé peut etre contaminée, et peut même
+  cramer certains pc: il existe des clés avec un gros condensateur qui envoie
+  une charge à l'ordinateur.
+
+  Téléphones
+  ==========
+
+  * Les téléphones fonctionnent comme des ordinateurs !
+  * Les cartes SIM sont des boites noires, nous ne savons pas ce qui est présent
+    à l'intérieur.
+  * Le matériel est souvent fait d'un bloc, ce qui rends parfois difficile
+    l'isolation de certains composants entre eux (difficile à expliquer.)

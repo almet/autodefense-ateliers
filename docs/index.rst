@@ -26,6 +26,8 @@ ISC <https://fr.wikipedia.org/wiki/Licence_ISC>`_
    ateliers
    brise-glace
    introduction
+   theorie/logiciel
+   theorie/matos
    theorie/traces-physiques
    theorie/traces-reseau
    theorie/cryptographie

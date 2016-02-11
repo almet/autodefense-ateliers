@@ -22,7 +22,7 @@ Atelier d'une journée
 Matin (3h30):
 
 - Brise glace (30mn)
-- Introduction (30mn)
+- Introduction (1h)
 - Théorie: traces physiques (30mn)
 - Atelier traces: metadonnées sur les documents (30mn)
 - Atelier Tails - Installation et premiers usages (1h)

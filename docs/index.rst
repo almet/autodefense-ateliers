@@ -32,4 +32,7 @@ ISC <https://fr.wikipedia.org/wiki/Licence_ISC>`_
    theorie/traces-reseau
    theorie/cryptographie
    solutions/tails
+   solutions/gsm
+   solutions/mots-de-passe
+   solutions/effacement-de-donnes
    solutions/cryptocat

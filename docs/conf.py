@@ -48,8 +48,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Autodefense Numérique — Supports de formation'
-copyright = u'2016, Alexis Métaireau & contributeurs'
-author = u'Alexis Métaireau & contributeurs'
+copyright = u'2016'
+author = u''
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

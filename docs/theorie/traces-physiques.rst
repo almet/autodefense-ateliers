@@ -31,7 +31,7 @@ La mémoire vive (RAM)
 =====================
 
 N'importe quel programme qui s'execute sur un ordinateur utilise de la mémoire
-vive. C'est l'endroit ou l'ensemble des données que vous voyez affichées à
+vive. C'est l'endroit où l'ensemble des données que vous voyez affichées à
 l'écran sont stockées, par exemple.
 
 C'est aussi l'endroit ou toutes les données (textes etc) que vous rentrez
@@ -43,7 +43,7 @@ données (mots de passe compris).
 La parade par rapport à ce type d'attaques:
 
 - éteindre son ordinateur lorsqu'on ne l'utilise pas. Il existe des attaques
-  assez poussées qui meme être utilisées sur une mémoire eteinte jusqu'à
+  assez poussées qui peuvent même être utilisées sur une mémoire éteinte, jusqu'à
   quelques minutes après son extinction (cold boot attacks).
 
 Entrées / Sorties

@@ -60,5 +60,5 @@ CPL
 Les boitiers CPL permettent d'utiliser le reseau electrique comme un réseau
 ethernet. Il n'est pas vrai que le signal s'arrête avec les disjoncteurs.
 
-Il y a eu des cas ou les voisins pouvaient se connecter au reseau CPL sans
+Il y a eu des cas ou les voisins pouvaient se connecter au reseau *CPL* sans
 soucis.
